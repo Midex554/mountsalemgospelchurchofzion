@@ -1,0 +1,9 @@
+{
+  "name": "mount-salem-zion",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Website for Mount Salem Zion, a Cherubim & Seraphim church",
+  "engines": {
+    "node": ">=18"
+  }
+}
